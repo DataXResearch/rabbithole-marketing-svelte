@@ -8,21 +8,12 @@
 
 <div>
   <div class="absolute inset-0 px-6 flex flex-col h-screen overflor-auto">
-    <Header
-      on:click={() => {
-      makeRecommendation = false;
-      }}
-      />
-
+    <Header />
       <div
         in:fade
         class="flex-grow max-w-4xl mx-auto w-full md:pt-20  flex flex-col items-center justify-center"
         >
-        <Home
-          on:click={() => {
-          makeRecommendation = true;
-	  }}
-	  />
+        <Home />
       </div>
       <Footer />
   </div>
