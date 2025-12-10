@@ -7,11 +7,11 @@
 	</div>
 	<div class="flex flex-wrap items-center mr-auto">
 		<a
-			href="https://form.zootools.co/go/tfln5Mfi8mFGVRYk5da8"
+			href="https://chromewebstore.google.com/detail/rabbithole/nbklhnbdhfhbcojfbhncgkdlppbkiaec"
 			target="_blank"
 			class="w-full md:w-auto text-center bg-white/20 hover:bg-white/50 mb-4 flex-none rounded-full text-white font-medium py-3 px-6"
 		>
-                  Subscribe
+			Add to Chrome
 		</a>
 	</div>
 </div>
