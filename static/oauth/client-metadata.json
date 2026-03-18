@@ -5,6 +5,7 @@
   "logo_uri": "https://rabbithole.to/logo.png",
   "redirect_uris": [
     "https://rabbithole.to/oauth/callback",
+    "http://127.0.0.1:5173/oauth/callback",
     "https://nbklhnbdhfhbcojfbhncgkdlppbkiaec.chromiumapp.org/callback",
     "https://lmjlomngicapdikpnodgohfhhhfpeidp.chromiumapp.org/callback"
   ],
@@ -12,6 +13,6 @@
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
-  "application_type": "web",
+  "application_type": "native",
   "dpop_bound_access_tokens": true
 }
